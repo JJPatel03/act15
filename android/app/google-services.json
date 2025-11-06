@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804427822083",
+    "project_id": "inventory-app-jaypatel",
+    "storage_bucket": "inventory-app-jaypatel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804427822083:android:92d7a2191f995b1c078a36",
+        "android_client_info": {
+          "package_name": "com.example.act15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI6ZktfjG2pQK0NDGrmd5KU5tYuuyLbAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
